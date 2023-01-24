@@ -1,0 +1,61 @@
+1674391063717	geckodriver	INFO	Listening on 127.0.0.1:62328
+1674391237683	geckodriver	INFO	Listening on 127.0.0.1:62690
+1674391240783	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62691" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\achrk\\AppData\\Local\\Temp\\rust_mozprofileiYLacS"
+1674391241293	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674391241300	Marionette	INFO	Listening on port 62702
+Read port: 62702
+WebDriver BiDi listening on ws://127.0.0.1:62691
+1674391241461	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\achrk\\AppData\\Local\\Temp\\rust_mozprofileiYLacS\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62691/devtools/browser/64ff2d70-612f-4aad-9467-7bd979968cf6
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 170: NS_ERROR_UNEXPECTED
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 170: NS_ERROR_UNEXPECTED
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 625: TypeError: context.contentWindow is null
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://home.shelly.cloud."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://home.shelly.cloud."
+JavaScript error: https://home.shelly.cloud/build/bundle.js, line 51: TypeError: e[49] is undefined
+JavaScript error: https://home.shelly.cloud/build/bundle.js, line 51: TypeError: e[49] is undefined
+1674391274200	geckodriver	INFO	Listening on 127.0.0.1:62784
+1674391277221	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62785" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\achrk\\AppData\\Local\\Temp\\rust_mozprofileZkrNgb"
+1674391277930	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674391277939	Marionette	INFO	Listening on port 62795
+Read port: 62795
+WebDriver BiDi listening on ws://127.0.0.1:62785
+1674391278188	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1674391411267	geckodriver	INFO	Listening on 127.0.0.1:62938
+1674391413601	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62939" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\achrk\\AppData\\Local\\Temp\\rust_mozprofileOSUoo0"
+1674391414039	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674391414046	Marionette	INFO	Listening on port 62948
+Read port: 62948
+WebDriver BiDi listening on ws://127.0.0.1:62939
+1674391414226	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\achrk\\AppData\\Local\\Temp\\rust_mozprofileOSUoo0\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62939/devtools/browser/683f53a7-ecca-4cc8-b1cf-3ccf87a207d7
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://home.shelly.cloud."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://home.shelly.cloud."
+JavaScript error: https://home.shelly.cloud/build/bundle.js, line 51: TypeError: e[49] is undefined
+JavaScript error: https://home.shelly.cloud/build/bundle.js, line 51: TypeError: e[49] is undefined
+1674391474825	Marionette	INFO	Stopped listening on port 62948
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1674391513802	geckodriver	INFO	Listening on 127.0.0.1:63068
+1674391516913	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63069" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\achrk\\AppData\\Local\\Temp\\rust_mozprofileNFNbhn"
+1674391517440	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674391517444	Marionette	INFO	Listening on port 63078
+Read port: 63078
+WebDriver BiDi listening on ws://127.0.0.1:63069
+1674391517612	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\achrk\\AppData\\Local\\Temp\\rust_mozprofileNFNbhn\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63069/devtools/browser/06646168-4599-4d02-8e8f-9874ec45ef27
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://home.shelly.cloud."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://home.shelly.cloud."
+JavaScript error: https://home.shelly.cloud/build/bundle.js, line 51: TypeError: e[49] is undefined
+JavaScript error: https://home.shelly.cloud/build/bundle.js, line 51: TypeError: e[49] is undefined
+1674391557979	Marionette	INFO	Stopped listening on port 63078
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1674392954378	geckodriver	INFO	Listening on 127.0.0.1:55809
