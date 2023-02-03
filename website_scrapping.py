@@ -14,8 +14,8 @@ first_text = driver.page_source
 username_box = driver.find_element(By.XPATH, "//input[@type='email']")
 password_box = driver.find_element(By.XPATH, "//input[@type='password']")
 
-username_box.send_keys('talos.uth.team@gmail.com')
-password_box.send_keys('tal.osrobotix')
+username_box.send_keys('')
+password_box.send_keys('')
 
 login_button = driver.find_element(By.TAG_NAME, 'button')
 login_button.click()
